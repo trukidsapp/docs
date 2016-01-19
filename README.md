@@ -3,20 +3,16 @@ Application and project documentation
 
 This repository contains the documents relating to the project as a whole and the various system components.
 
-4910 Requirements Specification
-===============================
+4910 Requirements Specification Document
+========================================
 Provides a high-level overview of the project requirements using the 4+1 model of software requirement specification.
+
+Dufferin Elementary App Student Input Jan. 15, 2016
+===================================================
+Notes provided by Tricia Persad following the first visit to the school, summarizes student feedback from three classes vsited. Some of these items were subsequently incorporated into the requirements document.
 
 Issue Tracking and Project Planning Tool
 =======================================
 Three projects exist on a YouTrack InCloud installation located here:
 http://kidsapp.myjetbrains.com/youtrack/projects
-
-###4910 Project Documentation and Tasks
-Issues and tasks relating to the project in general, or conference and research processes.
-###Kids App iOS
-Issues and tasks for mobile application
-###Kids App Server
-Issues and tasks for web application, api and database
-
 
