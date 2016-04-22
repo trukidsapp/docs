@@ -11,8 +11,6 @@ Dufferin Elementary App Student Input Jan. 15, 2016
 ===================================================
 Notes provided by Tricia Persad following the first visit to the school, summarizes student feedback from three classes vsited. Some of these items were subsequently incorporated into the requirements document.
 
-Issue Tracking and Project Planning Tool
+Issue Tracking
 =======================================
-Three projects exist on a YouTrack InCloud installation located here:
-http://kidsapp.myjetbrains.com/youtrack/projects
-
+Issues and tasks for each project component can be found in GitHub Issues for each respective project. 
